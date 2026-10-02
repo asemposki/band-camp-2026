@@ -6,6 +6,8 @@ The link to Google Colab with the notebook we'll need is: [go.osu.edu/gpbmm](htt
 
 If this does not work for you, you can download the notebook from the `tutorials` folder in this repo and go to Google Colab via colab.research.google.com and upload the notebook there. All the data files here are URL linked to the notebook, so when you run the initial few cells, it will download the data files into Colab so you can access them.
 
+You may also run this repository locally by cloning it onto your personal laptop.
+
 # Authors
 
 Alexandra C. Semposki (OSU)
